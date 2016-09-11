@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/WvsFake/!svn/ver/11/Packet
+END
+ExtendedParser.pas
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/WvsFake/!svn/ver/1/Packet/ExtendedParser.pas
+END
+PacketIO.pas
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/WvsFake/!svn/ver/11/Packet/PacketIO.pas
+END
+MapleCrypt.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/WvsFake/!svn/ver/1/Packet/MapleCrypt.pas
+END
+Auth.pas
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/WvsFake/!svn/ver/1/Packet/Auth.pas
+END
+ReadThread.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/WvsFake/!svn/ver/1/Packet/ReadThread.pas
+END
+MapleStream.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/WvsFake/!svn/ver/1/Packet/MapleStream.pas
+END
+Opcodes.pas
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/WvsFake/!svn/ver/10/Packet/Opcodes.pas
+END

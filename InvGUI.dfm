@@ -1,0 +1,53 @@
+object frmInvGUI: TfrmInvGUI
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsNone
+  ClientHeight = 293
+  ClientWidth = 172
+  Color = clBtnFace
+  DoubleBuffered = True
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Window: TImage
+    Left = 0
+    Top = 0
+    Width = 172
+    Height = 293
+    Align = alClient
+    OnMouseDown = WindowMouseDown
+    OnMouseMove = WindowMouseMove
+    OnMouseUp = WindowMouseUp
+    ExplicitLeft = 15
+    ExplicitTop = 21
+    ExplicitWidth = 105
+    ExplicitHeight = 105
+  end
+  object lblItemName: TLabel
+    Left = 10
+    Top = 258
+    Width = 3
+    Height = 11
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -9
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object lblMesos: TLabel
+    Left = 55
+    Top = 270
+    Width = 3
+    Height = 13
+  end
+end
